@@ -98,7 +98,7 @@ public class AppEnv {
                 }
                 environments.putAll(properties);
                 Bot.TOKEN = properties.getProperty("986272844:AAFv7Rq30sGSe5QorEdOf0OfONCuuDdMoF8");
-                Bot.USERNAME = properties.getProperty("HappyBirthdayAliya_bot");
+                Bot.USERNAME = properties.getProperty("@HappyBirthdayAliya_bot");
             } catch (FileNotFoundException ex) {
                 Logger.getLogger(AppEnv.class.getName()).log(Level.SEVERE, null, ex);
             } catch (IOException ex) {
