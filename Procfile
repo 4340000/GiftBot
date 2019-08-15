@@ -1,1 +1,1 @@
-worker: sh target/bin/worker
+worker: java -jar target/java-telegram-bot-heroku-starter.jar
