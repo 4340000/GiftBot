@@ -1,1 +1,1 @@
-worker: java -jar target/java-telegram-bot-heroku-starter.jar
+worker: java -jar target/recollect-bot-1.0-SNAPSHOT.jar com.recollect.Bot
