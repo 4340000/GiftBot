@@ -1,1 +1,1 @@
-worker: java -jar target/recollect-bot-1.0-SNAPSHOT.jar com.recollect.RecollectBot
+worker: java -jar target/bot-1.0-jar-with-dependencies.jar
